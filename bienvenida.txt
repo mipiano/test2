@@ -1,0 +1,1 @@
+Esta es una bienvenida para toda la gente que vino al taller de git
